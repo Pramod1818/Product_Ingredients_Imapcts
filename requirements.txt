@@ -1,0 +1,8 @@
+streamlit 
+pillow 
+pytesseract 
+requests
+google-generativeai
+opencv-python
+python-dotenv
+
